@@ -1,0 +1,11 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "go-v3admin",
+  "outputfilename": "go-v3admin",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "author": {
+    "name": "jinzhu",
+    "email": "1992053348@qq.com"
+  }
+}
